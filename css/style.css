@@ -827,22 +827,7 @@ font-size: 21px;
 .copyright a:hover {
      color: #2bcc91;
 }
-*,
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
-body {
-  height: 100vh;
-  /* background-color: hsla(209 70% 3% / 100%);  */ /* For dark theme */
-  background-color: hsl(214, 20%, 85%);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 .wrapper {
   display: flex;
