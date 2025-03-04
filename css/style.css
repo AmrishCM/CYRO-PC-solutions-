@@ -899,7 +899,7 @@ font-size: 21px;
 .icon:has(.fa-youtube) {
   --color: #ff0000;
 }
-.icon:has(.fa-x-twitter) {
+.icon:has(.fa-phone-alt) {
   --color: #1da1f2;
 }
 .icon:has(.fa-github) {
